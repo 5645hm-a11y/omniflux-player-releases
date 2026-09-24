@@ -13,4 +13,4 @@ The installer isn't code-signed yet, so Windows SmartScreen may show a warning. 
 
 ---
 
-**עברית:** כאן נמצאים קובצי ההתקנה והעדכונים. הקוד ב-[GitHub](https://github.com/5645hm-a11y/omniflux-player), והאתר [כאן](https://5645hm-a11y.github.io/omniflux-player/). ‏Windows עלול להזהיר על "מפרסם לא ידוע": לוחצים **מידע נוסף**, ואז **הפעל בכל זאת**.
+**Français :** ce dépôt contient les installateurs et le flux de mise à jour. Le code est sur [GitHub](https://github.com/5645hm-a11y/omniflux-player) et le site [ici](https://5645hm-a11y.github.io/omniflux-player/). Si Windows signale un éditeur inconnu, cliquez sur **Informations complémentaires**, puis **Exécuter quand même**.
